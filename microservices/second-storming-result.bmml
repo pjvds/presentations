@@ -1,0 +1,74 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1236" measuredH="471" mockupW="545" mockupH="389">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::MultilineButton" x="732" y="97" w="-1" h="-1" measuredW="74" measuredH="66" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Profile</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::MultilineButton" x="868" y="141" w="129" h="66" measuredW="114" measuredH="66" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Registration</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::MultilineButton" x="950" y="258" w="-1" h="-1" measuredW="62" measuredH="66" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Chat</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::MultilineButton" x="815" y="294" w="-1" h="-1" measuredW="81" measuredH="66" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Review</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::MultilineButton" x="984" y="355" w="-1" h="-1" measuredW="78" measuredH="66" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Photos</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::MultilineButton" x="840" y="385" w="-1" h="-1" measuredW="101" measuredH="66" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Reporting</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::MultilineButton" x="726" y="285" w="-1" h="-1" measuredW="65" measuredH="66" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Draft</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::MultilineButton" x="1033" y="181" w="-1" h="-1" measuredW="74" measuredH="66" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Online</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::MultilineButton" x="784" y="204" w="-1" h="-1" measuredW="56" measuredH="66" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Flirt</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::MultilineButton" x="1033" y="82" w="-1" h="-1" measuredW="94" measuredH="66" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Favorites</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::MultilineButton" x="1077" y="289" w="-1" h="-1" measuredW="67" measuredH="66" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Diary</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::MultilineButton" x="1147" y="145" w="-1" h="-1" measuredW="89" measuredH="66" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Blocking</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::MultilineButton" x="1105" y="405" w="-1" h="-1" measuredW="94" measuredH="66" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Matching</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::MultilineButton" x="691" y="400" w="115" h="66" measuredW="74" measuredH="66" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Abuse</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

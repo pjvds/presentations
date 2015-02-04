@@ -1,0 +1,55 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1546" measuredH="574" mockupW="611" mockupH="490">
+  <controls>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::MultilineButton" x="1010" y="84" w="-1" h="-1" measuredW="74" measuredH="66" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Profile</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::MultilineButton" x="1226" y="84" w="-1" h="-1" measuredW="74" measuredH="66" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Profile</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::MultilineButton" x="1430" y="84" w="-1" h="-1" measuredW="74" measuredH="66" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Profile</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::MultilineButton" x="935" y="401" w="225" h="66" measuredW="181" measuredH="66" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>registration-approved</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::MultilineButton" x="1148" y="213" w="230" h="78" measuredW="226" measuredH="66" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>presentation-text-approved</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::MultilineButton" x="1400" y="320" w="-1" h="-1" measuredW="146" measuredH="66" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>member-banned</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Arrow" x="1044" y="148" w="10" h="426" measuredW="150" measuredH="100" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <leftArrow>false</leftArrow>
+        <rightArrow>false</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Arrow" x="1258" y="148" w="10" h="426" measuredW="150" measuredH="100" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <leftArrow>false</leftArrow>
+        <rightArrow>false</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Arrow" x="1462" y="148" w="10" h="426" measuredW="150" measuredH="100" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <leftArrow>false</leftArrow>
+        <rightArrow>false</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

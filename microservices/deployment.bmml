@@ -1,0 +1,145 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="2037" measuredH="906" mockupW="1689" mockupH="697">
+  <controls>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::VRule" x="909" y="212" w="-1" h="604" measuredW="10" measuredH="100" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::Canvas" x="1000" y="510" w="757" h="113" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::Canvas" x="1000" y="675" w="757" h="113" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::Canvas" x="1000" y="290" w="757" h="113" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::VCurly" x="1857" y="271" w="-1" h="-1" measuredW="180" measuredH="140" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Master</text>
+      </controlProperties>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::VCurly" x="1857" y="489" w="180" h="299" measuredW="180" measuredH="140" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Test</text>
+      </controlProperties>
+    </control>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::Arrow" x="540" y="499" w="351" h="153" measuredW="150" measuredH="100" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>10%25</text>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::Arrow" x="549" y="361" w="341" h="102" measuredW="150" measuredH="100" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>bottom</direction>
+        <text>90%25</text>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::Arrow" x="938" y="556" w="52" h="67" measuredW="150" measuredH="100" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>bottom</direction>
+        <text>50%25</text>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::VRule" x="1551" y="317" w="-1" h="523" measuredW="10" measuredH="100" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <stroke>dotted</stroke>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::Arrow" x="938" y="675" w="52" h="76" measuredW="150" measuredH="100" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>top</direction>
+        <text>50%25</text>
+      </controlProperties>
+    </control>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::Webcam" x="348" y="411" w="-1" h="-1" measuredW="177" measuredH="146" zOrder="11" locked="false" isInGroup="-1"/>
+    <control controlID="59" controlTypeID="com.balsamiq.mockups::VRule" x="1405" y="317" w="-1" h="523" measuredW="10" measuredH="100" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <stroke>dotted</stroke>
+      </controlProperties>
+    </control>
+    <control controlID="60" controlTypeID="com.balsamiq.mockups::VRule" x="1219" y="314" w="-1" h="523" measuredW="10" measuredH="100" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <stroke>dotted</stroke>
+      </controlProperties>
+    </control>
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::VRule" x="1060" y="314" w="-1" h="523" measuredW="10" measuredH="100" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <stroke>dotted</stroke>
+      </controlProperties>
+    </control>
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::MultilineButton" x="1028" y="534" w="-1" h="-1" measuredW="74" measuredH="66" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Profile</text>
+      </controlProperties>
+    </control>
+    <control controlID="63" controlTypeID="com.balsamiq.mockups::MultilineButton" x="1195" y="534" w="-1" h="-1" measuredW="58" measuredH="66" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Like</text>
+      </controlProperties>
+    </control>
+    <control controlID="64" controlTypeID="com.balsamiq.mockups::MultilineButton" x="1363" y="535" w="-1" h="-1" measuredW="94" measuredH="66" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Favorites</text>
+      </controlProperties>
+    </control>
+    <control controlID="65" controlTypeID="com.balsamiq.mockups::MultilineButton" x="1524" y="535" w="-1" h="-1" measuredW="65" measuredH="66" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Draft</text>
+      </controlProperties>
+    </control>
+    <control controlID="66" controlTypeID="com.balsamiq.mockups::MultilineButton" x="1687" y="538" w="-1" h="-1" measuredW="41" measuredH="66" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>....</text>
+      </controlProperties>
+    </control>
+    <control controlID="67" controlTypeID="com.balsamiq.mockups::MultilineButton" x="1028" y="699" w="-1" h="-1" measuredW="74" measuredH="66" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Profile</text>
+      </controlProperties>
+    </control>
+    <control controlID="68" controlTypeID="com.balsamiq.mockups::MultilineButton" x="1195" y="699" w="-1" h="-1" measuredW="58" measuredH="66" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Like</text>
+      </controlProperties>
+    </control>
+    <control controlID="69" controlTypeID="com.balsamiq.mockups::MultilineButton" x="1363" y="700" w="-1" h="-1" measuredW="94" measuredH="66" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Favorites</text>
+      </controlProperties>
+    </control>
+    <control controlID="70" controlTypeID="com.balsamiq.mockups::MultilineButton" x="1524" y="700" w="-1" h="-1" measuredW="65" measuredH="66" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Draft</text>
+      </controlProperties>
+    </control>
+    <control controlID="71" controlTypeID="com.balsamiq.mockups::MultilineButton" x="1687" y="703" w="-1" h="-1" measuredW="41" measuredH="66" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>....</text>
+      </controlProperties>
+    </control>
+    <control controlID="72" controlTypeID="com.balsamiq.mockups::MultilineButton" x="1028" y="314" w="-1" h="-1" measuredW="74" measuredH="66" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Profile</text>
+      </controlProperties>
+    </control>
+    <control controlID="73" controlTypeID="com.balsamiq.mockups::MultilineButton" x="1195" y="314" w="-1" h="-1" measuredW="58" measuredH="66" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Like</text>
+      </controlProperties>
+    </control>
+    <control controlID="74" controlTypeID="com.balsamiq.mockups::MultilineButton" x="1363" y="315" w="-1" h="-1" measuredW="94" measuredH="66" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Favorites</text>
+      </controlProperties>
+    </control>
+    <control controlID="75" controlTypeID="com.balsamiq.mockups::MultilineButton" x="1524" y="315" w="-1" h="-1" measuredW="65" measuredH="66" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Draft</text>
+      </controlProperties>
+    </control>
+    <control controlID="76" controlTypeID="com.balsamiq.mockups::MultilineButton" x="1687" y="318" w="-1" h="-1" measuredW="41" measuredH="66" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>....</text>
+      </controlProperties>
+    </control>
+    <control controlID="77" controlTypeID="com.balsamiq.mockups::MultilineButton" x="1041" y="840" w="575" h="66" measuredW="129" measuredH="66" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Infrastructure%0Adb%2C%20bus%2C%20monitoring</text>
+      </controlProperties>
+    </control>
+    <control controlID="78" controlTypeID="com.balsamiq.mockups::HRule" x="865" y="452" w="-1" h="-1" measuredW="100" measuredH="10" zOrder="31" locked="false" isInGroup="-1"/>
+    <control controlID="79" controlTypeID="com.balsamiq.mockups::HRule" x="869" y="209" w="-1" h="-1" measuredW="100" measuredH="10" zOrder="32" locked="false" isInGroup="-1"/>
+    <control controlID="80" controlTypeID="com.balsamiq.mockups::HRule" x="877" y="816" w="-1" h="-1" measuredW="100" measuredH="10" zOrder="33" locked="false" isInGroup="-1"/>
+  </controls>
+</mockup>

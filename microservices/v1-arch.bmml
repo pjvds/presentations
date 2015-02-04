@@ -1,0 +1,75 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="2470" measuredH="1129" mockupW="2220" mockupH="1072">
+  <controls>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="250" y="73" w="1000" h="300" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//happypancake.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Canvas" x="250" y="446" w="1000" h="300" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Canvas" x="250" y="829" w="1000" h="300" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Title" x="673" y="582" w="155" h="-1" measuredW="72" measuredH="43" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>App</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Title" x="562" y="958" w="376" h="-1" measuredW="175" measuredH="43" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Database</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="__group__" x="1545" y="57" w="925" h="1072" measuredW="925" measuredH="1072" zOrder="5" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="__group__" x="386" y="0" w="133" h="106" measuredW="133" measuredH="106" zOrder="0" locked="false" isInGroup="31">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="__group__" x="0" y="0" w="133" h="106" measuredW="133" measuredH="106" zOrder="0" locked="false" isInGroup="0">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="133" h="63" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <text>A%20Web%20Page%0Ahttp%3A//happypancake.com</text>
+                  </controlProperties>
+                </control>
+                <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="71" w="132" h="35" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="0"/>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="4" y="73" w="125" h="-1" measuredW="44" measuredH="27" zOrder="1" locked="false" isInGroup="0">
+              <controlProperties>
+                <size>24</size>
+                <text>App</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="1" controlTypeID="__group__" x="0" y="141" w="925" h="931" measuredW="925" measuredH="931" zOrder="1" locked="false" isInGroup="31">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="925" h="931" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="1"/>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="274" y="429" w="376" h="-1" measuredW="175" measuredH="43" zOrder="1" locked="false" isInGroup="1">
+              <controlProperties>
+                <text>Database</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="2" controlTypeID="__group__" x="406" y="20" w="133" h="106" measuredW="133" measuredH="106" zOrder="2" locked="false" isInGroup="31">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="__group__" x="0" y="0" w="133" h="106" measuredW="133" measuredH="106" zOrder="0" locked="false" isInGroup="2">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="133" h="63" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <text>A%20Web%20Page%0Ahttp%3A//happypancake.com</text>
+                  </controlProperties>
+                </control>
+                <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="71" w="132" h="35" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="0"/>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="4" y="73" w="125" h="-1" measuredW="44" measuredH="27" zOrder="1" locked="false" isInGroup="2">
+              <controlProperties>
+                <size>24</size>
+                <text>App</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

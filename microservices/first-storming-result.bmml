@@ -1,0 +1,57 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="982" measuredH="463" mockupW="540" mockupH="356">
+  <controls>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::MultilineButton" x="552" y="121" w="-1" h="-1" measuredW="62" measuredH="66" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Chat</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::MultilineButton" x="455" y="383" w="-1" h="-1" measuredW="78" measuredH="66" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Photos</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::MultilineButton" x="442" y="215" w="-1" h="-1" measuredW="101" measuredH="66" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Reporting</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::MultilineButton" x="614" y="215" w="-1" h="-1" measuredW="74" measuredH="66" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Online</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::MultilineButton" x="543" y="305" w="-1" h="-1" measuredW="94" measuredH="66" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Matching</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="__group__" x="706" y="369" w="276" h="94" measuredW="276" measuredH="94" zOrder="4" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::MultilineButton" x="0" y="14" w="-1" h="-1" measuredW="74" measuredH="66" zOrder="0" locked="false" isInGroup="10">
+          <controlProperties>
+            <text>Profile</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::VCurly" x="96" y="0" w="180" h="94" measuredW="180" measuredH="140" zOrder="1" locked="false" isInGroup="10">
+          <controlProperties>
+            <text>ProfileCreated%0AProfileTextChanged%0AProfileTextApproved%0AProfileTextDenied%0A...</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="11" controlTypeID="__group__" x="682" y="107" w="283" h="94" measuredW="283" measuredH="94" zOrder="3" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::MultilineButton" x="0" y="13" w="-1" h="-1" measuredW="88" measuredH="66" zOrder="0" locked="false" isInGroup="11">
+          <controlProperties>
+            <text>Member</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::VCurly" x="103" y="0" w="180" h="94" measuredW="180" measuredH="140" zOrder="1" locked="false" isInGroup="11">
+          <controlProperties>
+            <text>MemberRegistered%0AMemberFlirted%0AMemberVisisted%0AMemberEmailChanged%0AMemberSeen%0A....</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>
